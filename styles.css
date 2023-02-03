@@ -124,6 +124,7 @@ i {
 
 .copyright {
     padding-top: 25px;
+    padding-bottom: 25px;
     font-weight: 600;
 }
 
@@ -134,4 +135,14 @@ i {
 
 .copyright-hover{
     transition: 0.5s;
+}
+
+
+@media only screen and (max-width: 600px){
+    a {
+        font-size: 16px;
+    }
+    i {
+        font-size: 28px;
+    }
 }
