@@ -7,7 +7,7 @@ body {
     align-items: center;
     flex-direction: column;
     width: 100vw;
-    font-family: 'poppins', sans-serif;
+    font-family: Recursive;
     text-decoration: none;
 }
 
@@ -98,8 +98,8 @@ a {
 
 
 .image-container {
-    height: 96px;
-    width: 96px;
+    height: 105px;
+    width: 105px;
     border-radius: 50%;
     overflow: hidden;
     margin-bottom: 10px;
