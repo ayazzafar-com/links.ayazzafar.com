@@ -145,6 +145,13 @@ i {
     i {
         font-size: 26px;
     }
+    .fa-share{
+        color: #ababab;
+        font-size: 22px;
+        position: relative;
+        bottom: 2px;
+        left: 2px;
+    }
 }
 
 .fa-share{
