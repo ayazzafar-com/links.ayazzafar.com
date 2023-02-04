@@ -161,3 +161,9 @@ i {
     bottom: 2px;
     left: 2px;
 }
+
+.fa-copyright{
+    color: #fff;
+    font-size: 16px;
+    padding-right: 1px;
+}
