@@ -98,9 +98,9 @@ a {
 
 
 .image-container {
-    height: 115px;
-    width: 115px;
-    border-radius: 100px;
+    height: 96px;
+    width: 96px;
+    border-radius: 50%;
     overflow: hidden;
     margin-bottom: 10px;
 }
