@@ -146,3 +146,11 @@ i {
         font-size: 28px;
     }
 }
+
+.fa-share{
+    color: #ababab;
+    font-size: 24px;
+    position: relative;
+    bottom: 2px;
+    left: 2px;
+}
